@@ -1,0 +1,9 @@
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 22,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "same",
+  "editor.wordWrapColumn": 80
+}
